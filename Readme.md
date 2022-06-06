@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Roman Toporov](https://up.htmlacademy.ru/javascript/26/user/1808931).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 
 ---
 
